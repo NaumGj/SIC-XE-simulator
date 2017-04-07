@@ -1,4 +1,4 @@
-package SICXE.src;
+package sicxe.simulator;
 
 public class Machine {
 	

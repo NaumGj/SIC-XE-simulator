@@ -1,4 +1,4 @@
-package SICXE.src;
+package sicxe.simulator;
 
 import java.awt.GridBagConstraints;
 import java.awt.GridBagLayout;

@@ -1,4 +1,4 @@
-package SICXE.src;
+package sicxe.simulator;
 
 import java.util.Collections;
 import java.util.HashMap;

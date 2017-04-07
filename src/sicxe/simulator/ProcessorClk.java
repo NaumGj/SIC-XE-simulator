@@ -1,4 +1,4 @@
-package SICXE.src;
+package sicxe.simulator;
 
 import java.util.Timer;
 import java.util.TimerTask;
