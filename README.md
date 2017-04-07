@@ -1,2 +1,2 @@
 # SIC-XE-simulator
-Simulator of the virtual machine SIC/XE
+Simulator for the virtual machine SIC/XE
